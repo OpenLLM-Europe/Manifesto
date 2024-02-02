@@ -22,7 +22,7 @@ So, if you are passionate about LLMs, concerned about digital sovereignty, and b
 Researchers in academic research, code and algorithm professionals, language specialists, future users eager to discover the full potential of LLMs, or just curious individuals, you are all welcome!
 
 We are convinced that collaboration and transparency are essential to build a strategic roadmap for LLM and ensure the ethical of these technologies.
-To join our community and be part of this exciting journey, please contact us at the following address: contact@openllm-europe.eu. The temporary GitHub page for pre-configuring this community ➡️ [https://github.com/OpenLLM-Europe/Manifesto](https://github.com/OpenLLM-Europe/Manifesto/edit/main/README.md).
+To join our community and be part of this exciting journey, please contact us at the following address: contact@openllm-europe.org. The temporary GitHub page for pre-configuring this community ➡️ [https://github.com/OpenLLM-Europe/Manifesto](https://github.com/OpenLLM-Europe/Manifesto/edit/main/README.md).
 
 **Europe's future is also being shaped in lines of code and algorithms. Faced with the dominance of American and Chinese giants in AI, European tech players have a crucial role to play.**
 
