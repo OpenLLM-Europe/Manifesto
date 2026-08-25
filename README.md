@@ -22,7 +22,7 @@ So, if you are passionate about LLMs, concerned about digital sovereignty, and b
 Researchers in academic research, code and algorithm professionals, language specialists, future users eager to discover the full potential of LLMs, or just curious individuals, you are all welcome!
 
 We are convinced that collaboration and transparency are essential to build a strategic roadmap for LLM and ensure the ethical of these technologies.
-To join our community and be part of this exciting journey, please contact us at the following address: contact@openllm-europe.org. The temporary GitHub page for pre-configuring this community ➡️ [https://github.com/OpenLLM-Europe/Manifesto](https://github.com/OpenLLM-Europe/Manifesto/edit/main/README.md).
+To join our community and be part of this exciting journey, please contact us at the following address: contact@openllm-europe.org. The temporary GitHub page for pre-configuring this community ➡️ [https://github.com/OpenLLM-Europe/Manifesto](https://github.com/OpenLLM-Europe/Manifesto).
 
 **Europe's future is also being shaped in lines of code and algorithms. Faced with the dominance of American and Chinese giants in AI, European tech players have a crucial role to play.**
 
@@ -31,4 +31,6 @@ A sovereign AI is the essential digital common to ensure its acceptability and t
 **It's time to join our efforts and experiences to provide a trustworthy AI to strengthen our strategic autonomy in the field of AI.**
 
 # Join Us
-To continue our discussions, we invite you to join the OpenLLM-Europe 🇪🇺 Discord server ➡️ [https://discord.gg/k2BQvGfjzA](https://discord.gg/k2BQvGfjzA)
+To continue our discussions, we invite you to join our Discord server ➡️ [https://discord.gg/k2BQvGfjzA](https://discord.gg/k2BQvGfjzA)
+
+OpenLLM Europe 🇪🇺 started inside [OpenLLM France](https://openllm-france.fr/) and still shares its Discord server, so the invite opens a server named *OpenLLM France* and many of its channels are in French. That is lineage, not policy. Our working language is English, so open your thread in English wherever you land, and say so if a French-only conversation is in your way.
